@@ -1,6 +1,7 @@
 Here you can see all my homeworks that were done during the courses of Vadim Ksendzov "Software testing course" and Artsiom Rusau - "Functional testing of Software"
 
 **Software testing course by Vadim Ksendzov**
+
 In the absence of formal documentation for testing, the testing of API were based on the guidance and instructions provided by the owner of the course.
 
 

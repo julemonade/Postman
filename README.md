@@ -5,10 +5,13 @@ Here you can see all my homeworks that were done during the courses of Vadim Kse
 In the absence of formal documentation for testing, the testing of API were based on the guidance and instructions provided by the owner of the course.
 
 ## Homework-1
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/20918959-4a1fd678-4ee0-408f-a36a-6f6c91014abf?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20918959-4a1fd678-4ee0-408f-a36a-6f6c91014abf%26entityType%3Dcollection%26workspaceId%3D7a772ce5-2dc1-4a9d-80d4-e524ad9c538e)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/20918959-4a1fd678-4ee0-408f-a36a-6f6c91014abf?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20918959-4a1fd678-4ee0-408f-a36a-6f6c91014abf%26entityType%3Dcollection%26workspaceId%3Dca964f13-848f-4b00-8ba2-f7031801ec6b)
 
 ## Homework-2
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/20918959-5c5dc0d2-bd6b-4f7a-90c7-7c515ae79563?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20918959-5c5dc0d2-bd6b-4f7a-90c7-7c515ae79563%26entityType%3Dcollection%26workspaceId%3D7a772ce5-2dc1-4a9d-80d4-e524ad9c538e)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/20918959-5c5dc0d2-bd6b-4f7a-90c7-7c515ae79563?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20918959-5c5dc0d2-bd6b-4f7a-90c7-7c515ae79563%26entityType%3Dcollection%26workspaceId%3Dca964f13-848f-4b00-8ba2-f7031801ec6b)
+
+## Homework-3
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/20918959-4a1a2b9b-bd0b-49f4-badb-c56fc3d5fdaf?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20918959-4a1a2b9b-bd0b-49f4-badb-c56fc3d5fdaf%26entityType%3Dcollection%26workspaceId%3Dca964f13-848f-4b00-8ba2-f7031801ec6b)
 
 # **Functional testing of Software course by Artsiom Rusau**
 
